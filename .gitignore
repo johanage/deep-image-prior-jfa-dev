@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 models/__pycache__/
 utils/__pycache__/
+plots
+*png
